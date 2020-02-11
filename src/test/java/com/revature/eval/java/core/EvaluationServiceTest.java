@@ -709,6 +709,6 @@ public class EvaluationServiceTest {
 	@Test
 	public void testSingleDivision() {
 		assertEquals(-11, evaluationService.solveWordProblem("What is 33 divided by -3?"));
-	}
+	}			
 
 }
